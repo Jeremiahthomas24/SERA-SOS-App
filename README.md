@@ -7,7 +7,7 @@ one-tap SOS alerts with real-time location sharing** to emergency contacts.
 
 ## 🔥 Features
 - One-tap SOS button
-- Live location sharing (every 10 seconds)
+- location sharing
 - Emergency SMS alerts
 - Auto-call sequence (optional)
 - Vibration & emergency UI
